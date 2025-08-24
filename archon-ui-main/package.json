@@ -21,7 +21,7 @@
     "@milkdown/crepe": "^7.5.0",
     "@milkdown/kit": "^7.5.0",
     "@milkdown/plugin-history": "^7.5.0",
-    "@milkdown/preset-commonmark": "^7.5.0",
+    "@milkdown/preset-commonmark": "^7.15.2",
     "@xyflow/react": "^12.3.0",
     "clsx": "latest",
     "date-fns": "^4.1.0",
