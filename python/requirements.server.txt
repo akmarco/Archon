@@ -29,7 +29,7 @@ markdown>=3.8
 
 # Security and utilities
 python-jose[cryptography]>=3.3.0
-cryptography>=41.0.0
+cryptography>=46.0.5
 slowapi>=0.1.9
 
 # Core utilities
